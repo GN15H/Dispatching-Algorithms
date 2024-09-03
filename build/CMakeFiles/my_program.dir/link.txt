@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/my_program.dir/fifo.c.o CMakeFiles/my_program.dir/models/models.c.o CMakeFiles/my_program.dir/parse/parse.c.o CMakeFiles/my_program.dir/plot/process_plot.c.o -o my_program 
